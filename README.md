@@ -1,4 +1,4 @@
-# Police-Killing-
+# Police Violence Analysis
 Statistical Analysis of Police Killings: using SQL, BigQuery 
 
 <!-- Output copied to clipboard! -->
